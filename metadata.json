@@ -1,0 +1,7 @@
+{
+  "name": "UAE Tax Advisor Pro",
+  "description": "An AI-powered professional tax consultant for UAE Corporate Tax, VAT, and Excise Tax, providing real-time legal references and practical implementation guidance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
